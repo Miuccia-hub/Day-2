@@ -19,6 +19,14 @@
 >touch .env
 2. add OPENAI_API_KEY
 
+# create streamlit application
+1. create python file entrypoint
+>touch home.py
+2. run streamlit
+>streamlit run home.py
+3.  edit the python file
+>import streamlit as st
+
 # Note-saving code
 1. source control
 2. client + to add files to the commit
