@@ -1,0 +1,5 @@
+is to ensure that exporters and importers do not collude to avoid payi ng Brazilian Customs duty 
+by stating artificially low invoice prices for imported goods. Previously, Brazilian Customs mainly 
+used a positive system of valuation, which focused on the invoice price at which the imported 
+goods were actually sold. The new regulations rely more heavily on a notional system of valuation, 
+which constructs the dutiable price by reference to market value. Like all notional systems, the

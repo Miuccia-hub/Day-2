@@ -1,0 +1,6 @@
+new Brazilian method is less heavily dependent on the documents prepared by (and the values 
+declared by) the exporter and importer themselves. 
+ 
+The new Brazilian regulations also create an import licensing requirement in some cases. 
+If the dutiable value as calculated under the regulations is greater than the invoice value of the 
+goods by more than a stipulated percentage, the importer must apply to the Brazilian Customs
