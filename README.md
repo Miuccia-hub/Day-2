@@ -1,6 +1,6 @@
 # Day-2
 
-# setup environment
+# Step-1 setup environment
 # Step-1 create a virtual environment
 1. create a virtual environment
 >python -m venv .venv
